@@ -1,0 +1,30 @@
+{
+  "name": "node-amc",
+  "version": "0.0.1",
+  "description": "A node.js module to open and manipulate AntMovieCatalog XML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bzhmaddog/node-amc.git"
+  },
+  "dependencies": {
+	"xmldom" : "^0.1.19",
+	"xpath" : "^0.0.7"
+  },
+  "keywords": [
+    "amc",
+    "movie",
+    "catalog",
+    "xml"
+  ],
+  "author": "Cédric Martin",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/bzhmaddog/node-amc/issues"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/bzhmaddog/node-amc"
+}
