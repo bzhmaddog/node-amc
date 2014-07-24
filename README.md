@@ -37,3 +37,9 @@ Another solution is to pass the filename when creating the Catalog object
         // do something after catalog is loaded
         catalog.getCatalogInfo();
     });
+
+
+Licence
+-----------
+
+[LGPL](http://opensource.org/licenses/LGPL-2.1)

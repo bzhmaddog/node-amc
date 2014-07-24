@@ -1,6 +1,6 @@
 {
   "name": "node-amc",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A node.js module to open and manipulate Ant Movie Catalog XML files",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,11 @@
     "amc",
     "movie",
     "catalog",
-    "xml"
+    "xml",
+    "Ant Movie Catalog"
   ],
   "author": "Cédric Martin",
-  "license": "GPL2",
+  "license": "LGPL",
   "bugs": {
     "url": "https://github.com/bzhmaddog/node-amc/issues"
   },
